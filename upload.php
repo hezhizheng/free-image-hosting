@@ -9,13 +9,11 @@
 
 namespace Hzz;
 
-use Hzz\File;
-use Hzz\FreePic;
-
 header('Content-Type:application/json; charset=utf-8');
 
 // 自动加载实例化的类
 spl_autoload_register(function ($name) {
+    $name = str_replace("\\","/",$name); // 兼容 Linux
     require "./org/" . basename($name) . ".php";
 });
 
