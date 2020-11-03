@@ -12,6 +12,7 @@
 
     <meta name="theme-color" content="#563d7c">
     <!-- Meta关键字定义 -->
+    <meta name="keywords" content="free-pic 免费图床,free image-hosting,新浪图床,免费图床,开源图床,个人图床,图床,php图床,图片外链,sm.ms,路过图床,图床网" />
     <meta name="description" content="free-pic 免费图床 free image-hosting">
     <meta name="author" content="DexterHo(HeZhiZheng)">
     <meta property="og:type" content="website">
