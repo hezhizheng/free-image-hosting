@@ -186,7 +186,15 @@
     <footer class="pt-4 my-md-5 pt-md-5 border-top">
         <div class="row">
             <div class="col-12 text-center">
-                <small class="d-block mb-3 text-muted">&copy; 2020-<?php echo date("Y") ?>  Power By <a href="https://hzz.cool" target="_blank">hzz.cool</a></small>
+                <small class="d-block mb-3 text-muted">
+                    &copy; 2020-<?php echo date("Y") ?>
+                    Power By <a href="https://hzz.cool" target="_blank">hzz.cool</a>
+
+                </small>
+                <small class="d-block mb-3 text-muted">
+                    Support <a href="https://github.com/hezhizheng/free-pic" target="_blank">free-pic</a>
+                    源码 <a href="https://github.com/hezhizheng/free-image-hosting" target="_blank"><i class="fa fa-github" style="font-size:16px;"></i></a>
+                </small>
             </div>
 
         </div>
