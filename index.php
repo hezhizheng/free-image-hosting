@@ -72,6 +72,7 @@
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <h6 class="display-4">free-pic(免费图床)</h6>
     <p class="lead">支持 "gif", "jpeg", "jpg", "png" 图片格式，大小不超过5MB</p>
+    <p class="lead">无存储限制 | 无需上传凭证 | 无同源跨域检测</p>
     <p class="lead">请避免上传不符合社会主义核心价值观的图片</p>
 </div>
 
