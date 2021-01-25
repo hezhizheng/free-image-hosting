@@ -23,6 +23,7 @@ const IMG_TYPE = [
     'ImgKr',
     'FreeImageHost',
     'ImgBB',
+    'VimCn',
 ];
 
 try {
