@@ -99,6 +99,9 @@
                     <label class="btn btn-outline-secondary">
                         <input type="radio" autocomplete="off" name="img_type" value="VimCn">VimCn
                     </label>
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" autocomplete="off" name="img_type" value="CatBox">CatBox
+                    </label>
                 </div>
             </div>
         </div>
