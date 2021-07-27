@@ -6,9 +6,9 @@
     <meta name="generator" content="free-pic 免费图床">
     <title>free-pic 免费图床</title>
     <!-- Bootstrap 核心CSS -->
-    <link rel="stylesheet" href="//lib.baomitu.com/twitter-bootstrap/4.5.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//lib.baomitu.com/bootstrap-fileinput/4.5.3/css/fileinput.min.css">
-    <link rel="stylesheet" href="//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/twitter-bootstrap/4.5.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-fileinput/4.5.3/css/fileinput.min.css">
+    <link rel="stylesheet" href="//lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <meta name="theme-color" content="#563d7c">
     <!-- Meta关键字定义 -->
@@ -209,10 +209,10 @@
     </footer>
 </div>
 
-<script src="//lib.baomitu.com/jquery/3.5.1/jquery.min.js"></script>
-<script src="//lib.baomitu.com/twitter-bootstrap/4.5.3/js/bootstrap.min.js"></script>
-<script src="//lib.baomitu.com/bootstrap-fileinput/4.5.3/js/fileinput.min.js"></script>
-<script src="//lib.baomitu.com/clipboard.js/2.0.6/clipboard.min.js"></script>
+<script src="//lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.5.1/jquery.min.js"></script>
+<script src="//lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/twitter-bootstrap/4.5.3/js/bootstrap.min.js"></script>
+<script src="//lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-fileinput/4.5.3/js/fileinput.min.js"></script>
+<script src="//lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/clipboard.js/2.0.6/clipboard.min.js"></script>
 
 
 <script>
