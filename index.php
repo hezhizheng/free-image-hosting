@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="generator" content="free-pic 免费图床">
-    <title>free-pic 免费图床</title>
+<!--    <meta name="generator" content="free-pic 免费图床">-->
+<!--    <title>free-pic 免费图床</title>-->
     <!-- Bootstrap 核心CSS -->
     <link rel="stylesheet" href="//lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/twitter-bootstrap/4.5.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="//lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-fileinput/4.5.3/css/fileinput.min.css">
@@ -12,13 +12,13 @@
 
     <meta name="theme-color" content="#563d7c">
     <!-- Meta关键字定义 -->
-    <meta name="keywords" content="free-pic 免费图床,free image-hosting,新浪图床,免费图床,开源图床,个人图床,图床,php图床,图片外链,sm.ms,路过图床,图床网" />
-    <meta name="description" content="free-pic 免费图床 free image-hosting">
-    <meta name="author" content="DexterHo(HeZhiZheng)">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="free-pic 免费图床 free image-hosting">
-    <meta property="og:site_name" content="free-pic 免费图床 free image-hosting">
-    <meta property="og:description" content="free-pic 免费图床 free image-hosting">
+<!--    <meta name="keywords" content="free-pic 免费图床,free image-hosting,新浪图床,免费图床,开源图床,个人图床,图床,php图床,图片外链,sm.ms,路过图床,图床网" />-->
+<!--    <meta name="description" content="free-pic 免费图床 free image-hosting">-->
+<!--    <meta name="author" content="DexterHo(HeZhiZheng)">-->
+<!--    <meta property="og:type" content="website">-->
+<!--    <meta property="og:title" content="free-pic 免费图床 free image-hosting">-->
+<!--    <meta property="og:site_name" content="free-pic 免费图床 free image-hosting">-->
+<!--    <meta property="og:description" content="free-pic 免费图床 free image-hosting">-->
 
     <style>
         html {
@@ -84,23 +84,14 @@
             <div class="card-body">
                 <h5 class="card-title">可用图床</h5>
                 <div class="btn-group-toggle" data-toggle="buttons" id="publicStorage">
-                    <label class="btn btn-outline-secondary active">
-                        <input type="radio" autocomplete="off" name="img_type" value="ImgKr" checked>ImgKr
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" autocomplete="off" name="img_type" value="imgBB">ImgBB
                     </label>
                     <label class="btn btn-outline-secondary">
-                        <input type="radio" autocomplete="off" name="img_type" value="ImgBB">ImgBB
+                        <input type="radio" autocomplete="off" name="img_type" value="freeImageHost">FreeImageHost
                     </label>
                     <label class="btn btn-outline-secondary">
-                        <input type="radio" autocomplete="off" name="img_type" value="FreeImageHost">FreeImageHost
-                    </label>
-                    <label class="btn btn-outline-secondary">
-                        <input type="radio" autocomplete="off" name="img_type" value="Sm">SM.MS
-                    </label>
-                    <label class="btn btn-outline-secondary">
-                        <input type="radio" autocomplete="off" name="img_type" value="VimCn">VimCn
-                    </label>
-                    <label class="btn btn-outline-secondary">
-                        <input type="radio" autocomplete="off" name="img_type" value="CatBox">CatBox
+                        <input type="radio" autocomplete="off" name="img_type" value="catBox">CatBox
                     </label>
                 </div>
             </div>
